@@ -90,7 +90,7 @@ function HeroProfile() {
         <div className="absolute inset-0 rounded-full bg-blue-500/20 blur-2xl scale-110" />
         <div className="relative w-72 h-72 rounded-full border-2 border-blue-500/40 overflow-hidden">
           <img
-            src="public/img.png"
+            src="/profile.png"
             alt="Foto de perfil de Juan Sebastian Ruiz Loaiza"
             className="w-full h-full object-cover object-top scale-125"
           />
